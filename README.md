@@ -21,9 +21,7 @@
     <h4 align="center">
        ✌(◠‿◠)✌   Em Desenvolvimento   ✌(◠‿◠)✌
     </h4 >
-    <h5 align="center">
-      (17/10 - 12h00, saíra a atualização do app mobile finalizado) 
-    </h5>
+    
   </div>
   <div id="preview">
     <h3 align="center">Preview</h3>
