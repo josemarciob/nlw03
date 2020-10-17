@@ -20,12 +20,15 @@
     <h3 align="center">Status</h3>
     <h4 align="center">
        ✌(◠‿◠)✌   Em Desenvolvimento   ✌(◠‿◠)✌
-    </h4>
+    </h4 >
+    <h5 align="center">
+      (17/10 - 12h00, saíra a atualização do app mobile finalizado) 
+    </h5>
   </div>
   <div id="preview">
     <h3 align="center">Preview</h3>
-    <img src="./preview/git-preview-1.jpg">
-    <img src="./preview/git-preview-2.jpg">
+    <img src="./preview/git-preview-1.JPG">
+    <img src="./preview/git-preview-2.JPG">
   </div>
   <div id="instalacao">
     <h3 align="center">Instalação</h3>
@@ -89,11 +92,10 @@
       <li>Leaflet;</li>
       <li>Axios;</li>
       <li>TypeORM;</li>
-      <li>ExpressJS</li>
+      <li>ExpressJS;</li>
       <li>Yup;</li>
       <li>SQLite3;</li>
-      <li>Typescript</li>
-      <li>Expo</li>
+      <li>Expo;</li>
     </ul>
   </div>
 
