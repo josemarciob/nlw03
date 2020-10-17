@@ -24,8 +24,8 @@
   </div>
   <div id="preview">
     <h3 align="center">Preview</h3>
-    <img src="./preview/git-preview-1.jpg">
-    <img src="./preview/git-preview-2.jpg">
+    <img src="./preview/git-preview-1.JPG">
+    <img src="./preview/git-preview-2.JPG">
   </div>
   <div id="instalacao">
     <h3 align="center">Instalação</h3>
