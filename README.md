@@ -89,11 +89,10 @@
       <li>Leaflet;</li>
       <li>Axios;</li>
       <li>TypeORM;</li>
-      <li>ExpressJS</li>
+      <li>ExpressJS;</li>
       <li>Yup;</li>
       <li>SQLite3;</li>
-      <li>Typescript</li>
-      <li>Expo</li>
+      <li>Expo;</li>
     </ul>
   </div>
 
